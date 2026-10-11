@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RikyZ90/RikyZ90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Riccardo 👋
 
-Here are some ideas to get you started:
+### RPA Architect · AI Automation Engineer · Open Source Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **automation systems, AI agents and self-hosted tools** with a strong focus on practical architecture, security, maintainability and real-world use.
+
+[![GitHub](https://img.shields.io/badge/GitHub-RikyZ90-181717?style=flat-square&logo=github)](https://github.com/RikyZ90)
+[![ShibaClaw](https://img.shields.io/badge/🐕_ShibaClaw-Open_Source-orange?style=flat-square)](https://github.com/RikyZ90/ShibaClaw)
+
+</div>
+
+---
+
+## 🐕 ShibaClaw
+
+<div align="center">
+
+<a href="https://github.com/RikyZ90/ShibaClaw">
+  <img src="https://raw.githubusercontent.com/RikyZ90/ShibaClaw/main/assets/shibaclaw_logo_readme.webp" width="520" alt="ShibaClaw">
+</a>
+
+**A self-hosted, security-first AI agent with a built-in Web UI.**
+
+</div>
+
+My main open-source project.
+
+ShibaClaw is designed for people who want capable AI agents without giving up control of their infrastructure, credentials or data.
+
+- 🧠 Multi-provider AI agent architecture
+- 🔐 Security-first core and encrypted credentials
+- 🏠 Self-hosted and local-model friendly
+- 🌐 Built-in desktop & mobile Web UI
+- 🔌 MCP support
+- 💬 Multiple chat platform integrations
+- 🧩 Skills, tools, automations and subagents
+- 🐳 Docker-ready
+
+**→ [Explore ShibaClaw](https://github.com/RikyZ90/ShibaClaw)**
+
+---
+
+## ⚙️ What I work on
+
+```text
+AI Agents        → orchestration, tools, memory, routing, MCP
+Automation       → UiPath, n8n, APIs, enterprise workflows
+Development      → Python, Go, Node.js
+Infrastructure   → Docker, Linux, self-hosting, CI/CD
+AI Integration   → cloud models, local models, OAuth, APIs
+```
+
+I particularly enjoy taking repetitive or fragmented processes and turning them into **reliable end-to-end automated systems**.
+
+---
+
+## 🧰 Tech I use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Open-source projects
+
+### 🐕 [ShibaClaw](https://github.com/RikyZ90/ShibaClaw)
+Self-hosted AI agent platform focused on **security, privacy and extensibility**.
+
+### 🛡️ [Muzzle](https://github.com/RikyZ90/Muzzle)
+A lightweight security layer for protecting AI agent workflows from malicious or untrusted tool output.
+
+### 🌐 [awesome-openrouter](https://github.com/RikyZ90/awesome-openrouter)
+A curated collection of projects, resources and tools around the OpenRouter ecosystem.
+
+### 🚀 [openclaw-skill-uexcorp-sc](https://github.com/RikyZ90/openclaw-skill-uexcorp-sc)
+An OpenClaw skill built around the Star Citizen UEX ecosystem.
+
+---
+
+## 🧠 Engineering philosophy
+
+I prefer systems that are:
+
+**simple enough to maintain**  
+**secure by default**  
+**observable when something goes wrong**  
+**modular enough to evolve**  
+**useful outside of a demo**
+
+The interesting part of AI isn't just calling a model API.
+
+It's designing the system around it.
+
+---
+
+<div align="center">
+
+### Build useful things. Automate the boring ones.
+
+<sub>AI · Automation · Agents · Open Source · Self-Hosting</sub>
+
+</div>
