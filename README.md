@@ -2,9 +2,9 @@
 
 # Hi, I'm Riccardo 👋
 
-### RPA Architect · AI Automation Engineer · Open Source Developer
+### RPA Architect & UiPath Expert · AI Automation Engineer · Open Source Developer
 
-I build **automation systems, AI agents and self-hosted tools** with a strong focus on practical architecture, security, maintainability and real-world use.
+I build **enterprise automation systems, AI agents and self-hosted tools** with a strong focus on practical architecture, security, maintainability and real-world use.
 
 [![GitHub](https://img.shields.io/badge/GitHub-RikyZ90-181717?style=flat-square&logo=github)](https://github.com/RikyZ90)
 [![ShibaClaw](https://img.shields.io/badge/🐕_ShibaClaw-Open_Source-orange?style=flat-square)](https://github.com/RikyZ90/ShibaClaw)
@@ -22,6 +22,15 @@ I build **automation systems, AI agents and self-hosted tools** with a strong fo
 </a>
 
 **A self-hosted, security-first AI agent with a built-in Web UI.**
+
+<br>
+
+### 🎉 50,000+ downloads
+
+**A huge thank you to everyone who has tried, used, shared or contributed to ShibaClaw.**  
+Seeing an open-source project I built reach this milestone means a lot. ❤️
+
+<a href="https://pepy.tech/projects/shibaclaw"><img src="https://static.pepy.tech/personalized-badge/shibaclaw?period=total&units=ABBREVIATION&left_color=YELLOWGREEN&right_color=ORANGE&left_text=downloads" alt="ShibaClaw Downloads"></a>
 
 </div>
 
@@ -45,14 +54,14 @@ ShibaClaw is designed for people who want capable AI agents without giving up co
 ## ⚙️ What I work on
 
 ```text
+RPA & Automation → UiPath, n8n, APIs, enterprise workflows
 AI Agents        → orchestration, tools, memory, routing, MCP
-Automation       → UiPath, n8n, APIs, enterprise workflows
 Development      → Python, Go, Node.js
 Infrastructure   → Docker, Linux, self-hosting, CI/CD
 AI Integration   → cloud models, local models, OAuth, APIs
 ```
 
-I particularly enjoy taking repetitive or fragmented processes and turning them into **reliable end-to-end automated systems**.
+As an **RPA Architect and UiPath expert**, I design and maintain production-grade automations that connect systems, remove repetitive work and turn fragmented business processes into **reliable end-to-end automated workflows**.
 
 ---
 
@@ -60,6 +69,7 @@ I particularly enjoy taking repetitive or fragmented processes and turning them 
 
 <div align="center">
 
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -109,6 +119,6 @@ It's designing the system around it.
 
 ### Build useful things. Automate the boring ones.
 
-<sub>AI · Automation · Agents · Open Source · Self-Hosting</sub>
+<sub>RPA · UiPath · AI · Automation · Agents · Open Source · Self-Hosting</sub>
 
 </div>
