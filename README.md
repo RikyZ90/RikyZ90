@@ -25,7 +25,7 @@ I build **enterprise automation systems, AI agents and self-hosted tools** with 
 
 <br>
 
-### 🎉 50,000+ downloads
+### 🎉 60,000+ downloads
 
 **A huge thank you to everyone who has tried, used, shared or contributed to ShibaClaw.**  
 Seeing an open-source project I built reach this milestone means a lot. ❤️
