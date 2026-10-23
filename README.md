@@ -33,6 +33,7 @@ I build **enterprise automation systems, AI agents and self-hosted tools** with 
 Seeing an open-source project I built reach this milestone means a lot. ❤️
 
 <a href="https://pepy.tech/projects/shibaclaw"><img src="https://static.pepy.tech/personalized-badge/shibaclaw?period=total&units=ABBREVIATION&left_color=YELLOWGREEN&right_color=ORANGE&left_text=downloads" alt="ShibaClaw Downloads"></a>
+<a href="https://hub.docker.com/r/rikyz90/shibaclaw"><img src="https://img.shields.io/docker/pulls/rikyz90/shibaclaw?style=flat-square&logo=docker&label=Docker%20pulls" alt="ShibaClaw Docker Hub pulls"></a>
 
 </div>
 
