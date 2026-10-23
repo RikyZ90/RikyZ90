@@ -9,7 +9,8 @@ I build **enterprise automation systems, AI agents and self-hosted tools** with 
 [![GitHub](https://img.shields.io/badge/GitHub-RikyZ90-181717?style=flat-square&logo=github)](https://github.com/RikyZ90)
 [![ShibaClaw](https://img.shields.io/badge/🐕_ShibaClaw-Open_Source-orange?style=flat-square)](https://github.com/RikyZ90/ShibaClaw)
 
-❤️ [Sponsor my open-source work](https://github.com/sponsors/RikyZ90)
+❤️ [Sponsor my open-source work](https://github.com/sponsors/RikyZ90)<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1P629BDHC)
 
 </div>
 
