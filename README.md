@@ -2,7 +2,7 @@
 
 # Hi, I'm Riccardo 👋
 
-### RPA Architect & UiPath Expert · AI Automation Engineer · Open Source Developer
+### RPA Architect & UiPath Expert · AI Automation Expert · Open Source Developer
 
 I build **enterprise automation systems, AI agents and self-hosted tools** with a strong focus on practical architecture, security, maintainability and real-world use.
 
