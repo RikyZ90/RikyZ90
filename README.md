@@ -92,7 +92,7 @@ As an **RPA Architect and UiPath expert**, I design and maintain production-grad
 ### 🐕 [ShibaClaw](https://github.com/RikyZ90/ShibaClaw)
 Self-hosted AI agent platform focused on **security, privacy and extensibility**.
 
-### 🛡️ [wow-addon-engineer]([https://github.com/RikyZ90/Muzzle](https://github.com/RikyZ90/wow-addon-engineer))
+### 🛡️ [wow-addon-engineer](https://github.com/RikyZ90/wow-addon-engineer)
 Evidence-based World of Warcraft addon development for OpenAI Codex and Claude Code
 
 ---
