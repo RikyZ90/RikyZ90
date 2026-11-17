@@ -92,14 +92,8 @@ As an **RPA Architect and UiPath expert**, I design and maintain production-grad
 ### 🐕 [ShibaClaw](https://github.com/RikyZ90/ShibaClaw)
 Self-hosted AI agent platform focused on **security, privacy and extensibility**.
 
-### 🛡️ [Muzzle](https://github.com/RikyZ90/Muzzle)
-A lightweight security layer for protecting AI agent workflows from malicious or untrusted tool output.
-
-### 🌐 [awesome-openrouter](https://github.com/RikyZ90/awesome-openrouter)
-A curated collection of projects, resources and tools around the OpenRouter ecosystem.
-
-### 🚀 [openclaw-skill-uexcorp-sc](https://github.com/RikyZ90/openclaw-skill-uexcorp-sc)
-An OpenClaw skill built around the Star Citizen UEX ecosystem.
+### 🛡️ [wow-addon-engineer]([https://github.com/RikyZ90/Muzzle](https://github.com/RikyZ90/wow-addon-engineer))
+Evidence-based World of Warcraft addon development for OpenAI Codex and Claude Code
 
 ---
 
